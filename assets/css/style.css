@@ -252,7 +252,7 @@ nav{
     width: 50%;
 }
 .image{
-    background: #00c9ff;
+    background: var(--first-color);
     margin: auto 0;
     width: 380px;
     height: 380px;
