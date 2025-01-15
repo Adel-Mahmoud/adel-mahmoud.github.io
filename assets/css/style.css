@@ -7,12 +7,27 @@
     --color-white: rgb(255, 255, 255);
 
     --text-color-second: rgb(68, 68, 68);
-    --text-color-third: rgb(30, 159, 171);
+
+    --text-color-third: rgb(110, 87, 224);
+
+    --first-color: rgb(110, 87, 224);
+    --first-color-hover: rgb(69, 55, 138);
+
+    --second-color: rgb(110, 87, 224); 
+    
+
+
+    /* --text-color-third: rgb(30, 159, 171);
 
     --first-color: rgb(110, 87, 224);
     --first-color-hover: rgb(40, 91, 212);
 
-    --second-color: rgb(0, 201, 255); /* #00c9ff */
+    --second-color: rgb(0, 201, 255);  */
+    /* #00c9ff */
+
+
+
+
     --third-color: rgb(192, 166, 49);
     --first-shadow-color: rgba(0, 0, 0, 0.1);
 
@@ -385,7 +400,7 @@ h3{
 }
 .project-box>i,.project-box>svg{
     font-size: 50px;
-    color: #00B5E7;
+    color: var(--first-color);
     margin-bottom: 25px;
 }
 .project-box label{
@@ -402,10 +417,13 @@ h3{
     transition: .4s;
     z-index: 1;
 }
-.project-box:hover.project-box::after,
-.contact-info:hover.contact-info::after{
+.project-box:hover.project-box::after{
     bottom: 0;
 }
+/* .project-box:hover.project-box::after,
+.contact-info:hover.contact-info::after{
+    bottom: 0;
+} */
 .project-box:hover.project-box i,
 .project-box:hover.project-box svg,
 .project-box:hover.project-box>h3,
@@ -450,7 +468,7 @@ h3{
 .contact-info:hover.contact-info h2,
 .contact-info:hover.contact-info p,
 .contact-info:hover.contact-info i{
-    color: #777;
+    /* color: #777; */
     z-index: 2;
 }
 
@@ -493,7 +511,7 @@ textarea{
     color: var(--color-white);
 }
 .form-button>.btn:hover{
-    background: #00B5E7;
+    background: var(--first-color-hover);
 }
 .form-button i{
     font-size: 18px;
