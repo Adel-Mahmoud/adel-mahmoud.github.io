@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Quraan",
+        "technologiesType": "Frontend",
+        "image": "./assets/images/projects/Quraan.png",
+        "description": "The Quran Listening Project is a web application that allows users to listen to all Quran recitations by various renowned reciters. The website provides easy navigation to select any surah (chapter) and reciter of choice, offering a seamless and user-friendly experience for Quran listeners. The platform is designed to be accessible for all users, ensuring that they can stream Quran recitations directly without the need for additional downloads. Additionally, the project also offers live streaming for Al-Quran Al-Kareem and Prophetic Hadith channels, providing users with a complete and enriched Islamic experience. This project aims to serve the community by providing an organized and reliable online Quran listening tool.",
+        "technologies": ["HTML", "CSS", "JavaScript", "API"]
+    },
+    {
+        "id": 2,
+        "name": "EasyShare",
+        "technologiesType": "Frontend",
+        "image": "./assets/images/projects/EasyShare.png",
+        "description": "EasyShare is a web application for managing group savings programs where participants contribute a fixed amount, and one member receives the total collected amount in each cycle. The platform ensures transparency, automates payment tracking, and simplifies financial collaboration among members.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Mdbootstrap"]
+    },
+    {
+        "id": 3,
+        "name": "Store",
+        "technologiesType": "Frontend - Backend",
+        "image": "./assets/images/projects/Store.png",
+        "description": "Store is an e-commerce platform that provides a complete solution for online shopping. The project includes a user-friendly interface for browsing products, an integrated shopping cart, and secure payment methods. The backend is robust, ensuring smooth order management and inventory control for administrators.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"]
+    },
+    {
+        "id": 4,
+        "name": "Rakamy",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Rakamy is a data visualization tool that helps users analyze and present complex data in an interactive and visually appealing way. It supports multiple chart types, real-time data updates, and custom themes to cater to different business needs.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"]
+    },
+    {
+        "id": 5,
+        "name": "Absent",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Absent is an attendance management system designed for educational institutions and workplaces. It allows administrators to track attendance, manage absences, and generate detailed reports. The system also includes features for scheduling and notifications.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },
+    {
+        "id": 6,
+        "name": "Permissions Absences",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Permissions Absences is a comprehensive system for managing employee permissions and absences. The application includes tools for leave requests, approval workflows, and tracking employee attendance. The user-friendly dashboard ensures efficient management for HR teams.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },
+    {
+        "id": 7,
+        "name": "Agazty",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Agazty is a travel and vacation planning platform that provides users with tools to explore destinations, book accommodations, and plan itineraries. The project is designed to offer a seamless experience for travel enthusiasts.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },
+    {
+        "id": 8,
+        "name": "Dragaty",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Dragaty is a drag-and-drop page builder tool that allows users to create websites without any coding knowledge. The application includes pre-designed templates, customizable components, and integration with CMS platforms.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },
+    {
+        "id": 9,
+        "name": "Student's Data Class List",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Student's Data Class List is a system for managing student records and class lists. It includes features for adding, editing, and viewing student information, along with tools for generating reports and performance analytics.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },
+    {
+        "id": 10,
+        "name": "Student's Absent Leave Early",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Student's Absent Leave Early is an attendance tracking system that allows teachers to log student absences and early leaves. The application provides detailed analytics and reporting for better attendance management.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },
+    {
+        "id": 11,
+        "name": "E3lany",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "E3lany is an online advertising platform that allows users to post and manage ads across various categories. The system includes advanced search and filtering features to ensure users can find relevant listings easily.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },
+    {
+        "id": 12,
+        "name": "Kamal",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "Kamal is an educational platform that offers online courses, quizzes, and certification programs. The platform is designed to provide a rich learning experience with interactive content and progress tracking.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+    },{
+        "id": 13,
+        "name": "Blog",
+        "technologiesType": "Frontend - Backend",
+        "image": "",
+        "description": "The Blog Project is a comprehensive web application designed for creating, managing, and sharing blog posts. It allows users to register, write articles, and categorize them efficiently. With a modern and responsive frontend, the application ensures seamless user experience across devices. On the backend, robust functionality is provided for data management, user authentication, and API integrations to enhance its extensibility. This project serves as an excellent example of combining frontend technologies like ReactJs and Bootstrap with backend tools like Laravel and MySQL for a full-stack application.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "ReactJs", "API", "Laravel", "MySQL"]
+    }
+    
+]
