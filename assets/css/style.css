@@ -428,6 +428,7 @@ h3 {
   align-items: center;
   text-align: center;
   flex-direction: column;
+  padding: 0 10px;
   width: 30%;
   height: 250px;
   background: var(--color-white);
