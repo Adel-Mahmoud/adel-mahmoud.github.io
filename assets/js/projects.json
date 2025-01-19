@@ -36,7 +36,7 @@
         "name": "Absent",
         "technologiesType": "Frontend - Backend",
         "image": "",
-        "description": "Absent is an attendance management system designed for educational institutions and workplaces. It allows administrators to track attendance, manage absences, and generate detailed reports. The system also includes features for scheduling and notifications.",
+        "description": "Absent is a leave management system tailored for students and their guardians. It enables parents to submit leave or absence requests for their children directly to the school. The platform provides administrators with tools to review and approve requests, track attendance, and generate detailed absence reports. This ensures seamless communication between parents and schools while maintaining accurate attendance records.",
         "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
     },
     {
