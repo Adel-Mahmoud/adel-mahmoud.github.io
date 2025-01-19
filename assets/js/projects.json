@@ -33,10 +33,10 @@
     },
     {
         "id": 5,
-        "name": "Absent",
+        "name": "Update student data",
         "technologiesType": "Frontend - Backend",
         "image": "",
-        "description": "Absent is a leave management system tailored for students and their guardians. It enables parents to submit leave or absence requests for their children directly to the school. The platform provides administrators with tools to review and approve requests, track attendance, and generate detailed absence reports. This ensures seamless communication between parents and schools while maintaining accurate attendance records.",
+        "description": "Update student data is a student information management platform designed to streamline the process of updating student data. It enables administrators to efficiently edit, manage, and maintain accurate student records, ensuring that all information is up-to-date. The system is intuitive and user-friendly, making it easy to handle changes such as contact details, enrollment information, and academic records.",
         "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
     },
     {
