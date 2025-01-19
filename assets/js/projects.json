@@ -21,7 +21,7 @@
         "technologiesType": "Frontend - Backend",
         "image": "./assets/images/projects/Store.png",
         "description": "Store is an inventory management system designed to streamline the process of managing stock and product quantities. The platform allows users to add products, transfer items between warehouses, and track sales seamlessly. Administrators can monitor remaining stock levels, ensuring efficient inventory control and accurate reporting. The user-friendly interface and robust backend make it an ideal solution for managing warehouses and product distribution effectively.",
-        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"]
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MVC", "MySQL"]
     },
     {
         "id": 4,
