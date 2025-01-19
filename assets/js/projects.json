@@ -53,7 +53,7 @@
         "technologiesType": "Frontend - Backend",
         "image": "",
         "description": "Agazty is a leave scheduling platform designed for employees to select and plan their vacation periods. It allows users to view available leave slots, choose their preferred vacation dates, and submit requests seamlessly.",
-        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "Livewire", "MySQL"]
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Laravel", "MySQL"]
     },
     {
         "id": 8,
