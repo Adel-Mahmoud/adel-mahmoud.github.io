@@ -27,8 +27,8 @@
         "id": 4,
         "name": "Rakamy",
         "technologiesType": "Frontend - Backend",
-        "image": "",
-        "description": "Rakamy is a data visualization tool that helps users analyze and present complex data in an interactive and visually appealing way. It supports multiple chart types, real-time data updates, and custom themes to cater to different business needs.",
+        "image": "./assets/images/projects/Rakamy.png",
+        "description": "Rakamy is a platform designed for selling numbers with flexible pricing plans. It provides users with tools to browse available numbers, compare pricing options, and select the plan that best suits their needs. The platform ensures a seamless experience with interactive features and customizable options tailored to different business and personal requirements.",
         "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"]
     },
     {
