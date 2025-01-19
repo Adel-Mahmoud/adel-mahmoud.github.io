@@ -20,7 +20,7 @@
         "name": "Store",
         "technologiesType": "Frontend - Backend",
         "image": "./assets/images/projects/Store.png",
-        "description": "Store is an e-commerce platform that provides a complete solution for online shopping. The project includes a user-friendly interface for browsing products, an integrated shopping cart, and secure payment methods. The backend is robust, ensuring smooth order management and inventory control for administrators.",
+        "description": "Store is an inventory management system designed to streamline the process of managing stock and product quantities. The platform allows users to add products, transfer items between warehouses, and track sales seamlessly. Administrators can monitor remaining stock levels, ensuring efficient inventory control and accurate reporting. The user-friendly interface and robust backend make it an ideal solution for managing warehouses and product distribution effectively.",
         "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"]
     },
     {
@@ -98,7 +98,7 @@
         "id": 13,
         "name": "Blog",
         "technologiesType": "Frontend - Backend",
-        "image": "",
+        "image": "./assets/images/projects/Blog.png",
         "description": "The Blog Project is a comprehensive web application designed for creating, managing, and sharing blog posts. It allows users to register, write articles, and categorize them efficiently. With a modern and responsive frontend, the application ensures seamless user experience across devices. On the backend, robust functionality is provided for data management, user authentication, and API integrations to enhance its extensibility. This project serves as an excellent example of combining frontend technologies like ReactJs and Bootstrap with backend tools like Laravel and MySQL for a full-stack application.",
         "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "ReactJs", "API", "Laravel", "MySQL"]
     }
