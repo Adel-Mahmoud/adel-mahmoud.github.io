@@ -99,7 +99,7 @@
         "name": "Blog",
         "technologiesType": "Frontend - Backend",
         "image": "./assets/images/projects/Blog.png",
-        "description": "The Blog Project is a comprehensive web application designed for creating, managing, and sharing blog posts. It allows users to register, write articles, and categorize them efficiently. With a modern and responsive frontend, the application ensures seamless user experience across devices. On the backend, robust functionality is provided for data management, user authentication, and API integrations to enhance its extensibility. This project serves as an excellent example of combining frontend technologies like ReactJs and Bootstrap with backend tools like Laravel and MySQL for a full-stack application.",
+        "description": "The Blog Project is a streamlined web application for publishing and managing articles. It allows users to register, create, and organize blog posts effortlessly. With a responsive and intuitive interface, the platform ensures an enjoyable writing and reading experience. The backend is built to handle efficient data management, user authentication, and seamless integration, making it a powerful tool for content creators. This project demonstrates the effective use of technologies like ReactJs, Bootstrap, Laravel, and MySQL to deliver a full-stack blogging solution.",
         "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "ReactJs", "API", "Laravel", "MySQL"]
     }
     
